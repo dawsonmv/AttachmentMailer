@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="net.Mailer.ServerInfo"/>
+    <classEntry path="net.Mailer.MailInfo"/>
+    <classEntry path="net.Sockets.TeleStringSocket"/>
+    <classEntry path="net.Mailer.TeleMailSender"/>
+    <classEntry path="net.utils.Base64conversion"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
